@@ -1,1 +1,1 @@
-# mlcourse_open_homeworks
+# Open Machine Learning Course
