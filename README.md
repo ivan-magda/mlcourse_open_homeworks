@@ -1,6 +1,6 @@
 # Open Machine Learning Course
 
-This repository contains demo projects and assignments I have done during the [OpenDataScience Machine Learning course][mlcourse_open].
+This repository contains demo projects and assignments, that I have done during the [OpenDataScience Machine Learning course][mlcourse_open].
 
 ***ATTENTION: COURSE STUDENTS***:
 
