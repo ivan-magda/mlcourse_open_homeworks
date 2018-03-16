@@ -114,3 +114,7 @@ data/news_data/
 data/stackoverflow_sample_125k\.tsv
 
 data/top10_tags\.tsv
+
+jupyter/topic04_linear_models/benchmark2\.csv
+
+jupyter/topic04_linear_models/benchmark1\.csv
